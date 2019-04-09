@@ -1,6 +1,6 @@
 # BakeryChallengeScala
 
-### Enviroment
+### Environment
 1. scala 2.11.12
 2. sbt 1.2.8
 
