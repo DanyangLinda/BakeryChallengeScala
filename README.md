@@ -22,11 +22,11 @@ sbt "run <path to the input file>"
 
 ### Error handling
 If any error occurs, program with exit properly and error messages will be printed with logger.
-1. Erro message for invalid input format
+1. Error message for invalid input format
 ```
 Invalid input line items. The expected format is <quantity: Int> <product_code: String>
 ```
-2. Erro message for invalid product code 
+2. Error message for invalid product code 
 ```
 Item code <item code> doesn't exist. Stop processing the order.
 ```
